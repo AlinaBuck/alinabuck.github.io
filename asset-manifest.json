@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fd0fc80d.css",
+    "main.js": "/static/js/main.757460c4.js",
+    "static/media/alina.png": "/static/media/alina.1f0a44132543ebb43a8b.png",
+    "static/media/2017.jpeg": "/static/media/2017.c36cc50c15ea9c0a5911.jpeg",
+    "static/media/1996.jpeg": "/static/media/1996.49ec55c4431080da34a2.jpeg",
+    "static/media/bird.pdf": "/static/media/bird.03f616013ba7604ca84e.pdf",
+    "static/media/2020.jpeg": "/static/media/2020.d63ec6109ac2df10fb47.jpeg",
+    "static/media/2022.jpeg": "/static/media/2022.b57af0b48b4aca712f52.jpeg",
+    "static/media/2014.jpeg": "/static/media/2014.7e36223c882329421986.jpeg",
+    "static/media/2016.jpeg": "/static/media/2016.719e240af0a8ea187a80.jpeg",
+    "static/media/2002.jpeg": "/static/media/2002.28b57624ebcd301f2b8e.jpeg",
+    "static/media/kobe.jpeg": "/static/media/kobe.66ba2b26618b94b37da2.jpeg",
+    "static/media/2019.jpeg": "/static/media/2019.399ace1f75aa452ed3bc.jpeg",
+    "static/media/2018.jpeg": "/static/media/2018.de0c06a4ff37246ce3d5.jpeg",
+    "static/media/2015.jpeg": "/static/media/2015.5c629e112e1e8245cf91.jpeg",
+    "static/media/2021.jpeg": "/static/media/2021.6df3b814b4269f4f67d3.jpeg",
+    "static/media/darmsheim.png": "/static/media/darmsheim.beb6e5a98d2492117762.png",
+    "static/media/linkedin.png": "/static/media/linkedin.712c4ce3d6be06644d11.png",
+    "static/media/mobile.png": "/static/media/mobile.145d9ce0157a56f8fcd8.png",
+    "static/media/email.png": "/static/media/email.37b9e890eea501421fbf.png",
+    "static/media/figma.png": "/static/media/figma.152e55329b6f1915967e.png",
+    "static/media/git.png": "/static/media/git.a54d3fa44e02f2f61e69.png",
+    "index.html": "/index.html",
+    "main.fd0fc80d.css.map": "/static/css/main.fd0fc80d.css.map",
+    "main.757460c4.js.map": "/static/js/main.757460c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd0fc80d.css",
+    "static/js/main.757460c4.js"
+  ]
+}
